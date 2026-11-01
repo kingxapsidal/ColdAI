@@ -1,0 +1,6 @@
+{
+  "name": "COLDMC AI",
+  "description": "AI-powered Minecraft Java server management application with Pterodactyl panel integration, live console, plugin & mod manager, server telemetry, and intelligent administrator assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

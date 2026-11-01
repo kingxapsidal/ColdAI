@@ -1,0 +1,13 @@
+{
+  "appId": "com.aistudio.coldmc.ai",
+  "appName": "COLDMC AI",
+  "webDir": "backend/static",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
